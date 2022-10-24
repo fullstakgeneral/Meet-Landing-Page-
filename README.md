@@ -6,7 +6,7 @@ This is the first project that is part of the assessment for trainees in the Ama
 ## Technology/Stack
 This project is created using:
 * HTML and
-* CSS together Google fonts
+* CSS together with Google fonts
 
 ## Features
 * Responsive on almost all devices of varying shapes, sizes and resolutions.
