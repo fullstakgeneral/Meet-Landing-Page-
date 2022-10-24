@@ -1,7 +1,7 @@
 # Meet-Landing-Page
 
 ## General info
-This is the first project that is part of the assessment for trainees in the Amalitech Graduate Trainee Program. It is a simple front-end design of landing page for a social media site. A good modern browser is needed to open this project.
+This is the first project that is part of the assessment for trainees in the Amalitech Graduate Trainee Program. It is a simple front-end design of a landing page for a social media site. A good modern browser is needed to open this project.
 
 ## Technology/Stack
 This project is created using:
@@ -10,7 +10,7 @@ This project is created using:
 
 ## Features
 * Responsive on almost all devices of varying shapes, sizes and resolutions.
-* A large and welcoming banner image with a bold message.
+* A large and welcoming banner image with a bold message as the header.
 * A footer with a hero image.
 * All text in the website is in Red Hat Display font family.
 
@@ -19,7 +19,7 @@ This project is created using:
 * MeetPage.html
 * MeetPage.css
 * directoryImages
-  -contains all images used in this project.
+ -this contains all images used in this project.
   
   
 
