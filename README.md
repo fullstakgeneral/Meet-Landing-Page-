@@ -15,7 +15,7 @@ This project is created using:
 * All text in the website is in Red Hat Display font family.
 
 ## Directories/Files
-# project_1:
+### project_1:
 * MeetPage.html
 * MeetPage.css
 * directoryImages
