@@ -5,14 +5,18 @@ This is the first project that is part of the assessment for trainees in the Ama
 
 ## Technology/Stack
 This project is created using:
-* HTML and
-* CSS together with Google fonts
+* HTML 
+* CSS for styling 
+* Google fonts
+* Netlify and GitHub Pages to deploy
+* Figma for design 
 
 ## Features
 * Responsive on almost all devices of varying shapes, sizes and resolutions.
 * A large and welcoming banner image with a bold message as the header.
 * A footer with a hero image.
 * All text in the website is in Red Hat Display font family.
+* Hover states for interactive elements.
 
 ## Directories/Files
 ### project_1:
